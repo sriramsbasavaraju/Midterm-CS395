@@ -41,6 +41,10 @@ html, body {
     padding-left: 10%; /* Adjust as needed for spacing from the left edge */
 }
 
+.about-me-accordion{
+    padding: 10px;
+}
+
 .about-me-content { /* New class for the content you want on the left */
     flex-basis: 50%; /* Takes up half of the flex container's space */
     display: flex;
